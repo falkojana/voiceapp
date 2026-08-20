@@ -74,7 +74,7 @@ Die fertige Datei liegt danach unter
 ## Mitmachen
 
 Fehler gefunden oder eine Idee für eine Verbesserung? Gerne ein
-[Issue](https://github.com/DEIN-NUTZERNAME/voiceapp/issues) eröffnen
+[Issue](https://github.com/falkojana/voiceapp/issues) eröffnen
 oder einen Pull Request einreichen.
 
 ## Lizenz
@@ -83,4 +83,4 @@ oder einen Pull Request einreichen.
 
 ## Kontakt
 
-Bei Fragen: [E-Mail-Adresse hier einfügen]
+Bei Fragen: fotosort.app@gmail.com
