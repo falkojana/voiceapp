@@ -27,7 +27,9 @@ Details siehe [PRIVACY.md](./PRIVACY.md).
 
 ## Screenshots
 
-
+<img src="Screenshot1.jpg" width="250">
+<img src="Screenshot2.jpg" width="250">
+<img src="Screenshot3.jpg" width="250">
 
 ## Technik
 
