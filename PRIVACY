@@ -1,0 +1,71 @@
+# Datenschutzerklärung – VoiceApp
+
+Stand: Oktober 2026
+
+## Verantwortlicher
+Falko Jana, Gackenhof 32, 36163 Poppenhausen
+Kontakt: fotosort.app@gmail.com
+
+## Grundsatz
+Die App wurde so gebaut, dass sie keine Nutzerdaten sammelt und keine
+Texte oder Audiodateien an den Entwickler oder an Dritte überträgt. Es gibt
+keine Registrierung, kein Nutzerkonto, keine Werbung und keine
+Analyse-Tools.
+
+## Welche Daten verarbeitet werden
+
+### Diktierter/eingegebener Text
+Der Text, den du diktierst, eingibst oder einfügst, wird ausschließlich
+lokal auf deinem Gerät gespeichert (App-interner Speicher), damit er beim
+Schließen der App nicht verloren geht.
+
+### Spracherkennung (Diktieren)
+Die App nutzt die auf deinem Android-Gerät installierte
+Spracherkennung. Ob diese lokal auf dem Gerät oder über einen Onlinedienst
+(z. B. Google) arbeitet, hängt von den Spracheinstellungen deines Geräts ab
+und liegt außerhalb des Einflussbereichs dieser App
+(Einstellungen → Sprache und Eingabe).
+
+### Sprachausgabe (Vorlesen)
+Die App nutzt die auf deinem Gerät installierte Text-in-Sprache-Ausgabe.
+Auch hier hängt es von der gewählten Engine und den Sprachpaketen deines
+Geräts ab, ob lokal oder online gesprochen wird.
+
+### Audiodateien (Transkription)
+Wählst du eine Audiodatei zur Umwandlung in Text, wird sie auf deinem
+Gerät verarbeitet. Beim Auswählen legt Android eine Kopie der Datei im
+App-Cache ab, die bis zum Leeren des Caches oder zur Deinstallation
+bestehen bleiben kann. Die Audiodatei und das Ergebnis werden nicht an
+Dritte übertragen.
+
+Für die Umwandlung lädt die App beim ersten Mal einmalig ein Sprachmodell
+(ca. 140 MB) von Servern von Hugging Face (huggingface.co, Auslieferung
+über cdn.hf.co) herunter. Dabei wird eine Internetverbindung aufgebaut,
+und deine IP-Adresse ist technisch bedingt für diesen Anbieter sichtbar. Das Modell wird danach lokal im App-Speicher
+gehalten.
+
+### Text aus anderen Apps (Auswahlmenü "Vorlesen")
+Markierter Text, den du über das Auswahlmenü an VoiceApp übergibst, wird nur
+lokal in der App angezeigt und vorgelesen.
+
+### Teilen
+Beim Teilen übergibt die App deinen Text an die Android-Teilen-Funktion.
+Welche App ihn empfängt, entscheidest du.
+
+## Berechtigungen
+
+- **Mikrofon:** für die Diktierfunktion
+- **Internet:** für den einmaligen Modell-Download der Audio-Transkription
+  und als technische Voraussetzung des Spracherkennungs-Pakets
+
+## Keine Weitergabe an Dritte
+Es findet keine Übertragung von Texten, Audiodateien oder Nutzungsdaten an
+den Entwickler oder an Dritte durch die App statt.
+
+## Open Source
+Der Quellcode ist öffentlich einsehbar:
+https://github.com/falkojana/voiceapp
+
+## Änderungen
+Diese Erklärung kann bei App-Updates angepasst werden, falls sich die
+Funktionsweise ändert.
